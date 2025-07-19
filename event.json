@@ -20,7 +20,7 @@
   },
   {
     "id": "616c46c7-1c04-4879-9f7d-5b50fce44ec4",
-    "duration": 1000,
+    "duration": 55,
     "league": "MotoGP Czech Republic",
     "icon": "https://i.imgur.com/hYCzOBd.png",
     "team1": {
@@ -31,11 +31,11 @@
       "name": "MotoGP",
       "logo": "https://i.imgur.com/enF2GWY.png"
     },
-    "kickoff_date": "2025-07-19",
-    "kickoff_time": "13:40",
+    "kickoff_date": "2025-07-20",
+    "kickoff_time": "14:40",
     "match_date": "2025-07-18",
     "match_time": "14:00",
-    "infogp": "Sprint Race | 20:00 WIB", "firstRow": 4
+    "infogp": "Moto2 Race | 17:15 WIB - MotoGP Race | 19:00 WIB", "firstRow": 4
   },
   {
     "id": "5cf13993-a6f6-4cf2-97d0-3b205b5a9ae6",
