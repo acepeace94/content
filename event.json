@@ -1,6 +1,6 @@
 [
   {
-    "id": "2608c89f-bef1-4115-ad1d-3fd881e0324b",
+    "id": "3608c89f-bef1-4115-ad1d-3fd881e0324b",
     "duration": 15,
     "league": "Japan Open Badminton Championships",
     "icon": "https://i.imgur.com/mD7ivNN.png",
@@ -12,9 +12,9 @@
       "name": "Badminton",
       "logo": "https://img.bwfbadminton.com/image/upload/v1750123479/assets/tournaments/logo/820AD245-F923-4B4F-8A96-BEDBA1B7A527.png"
     },
-    "kickoff_date": "2025-07-18",
+    "kickoff_date": "2025-07-19",
     "kickoff_time": "08:00",
-    "match_date": "2025-07-18",
+    "match_date": "2025-07-19",
     "match_time": "08:00",
     "infogp": "", "firstRow": 3
   },
