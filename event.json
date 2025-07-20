@@ -1,7 +1,7 @@
 [
   {
     "id": "84b1b0dd-8e0b-4d04-8cf1-da4d2d2b4531",
-    "duration": 4,
+    "duration": 3,
     "league": "SEA V League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
@@ -13,9 +13,9 @@
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png"
     },
     "kickoff_date": "2025-07-20",
-    "kickoff_time": "18:30",
+    "kickoff_time": "19:00",
     "match_date": "2025-07-20",
-    "match_time": "18:30",
+    "match_time": "19:00",
     "infogp": "", "firstRow": 3
   },
   {
