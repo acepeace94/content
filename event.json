@@ -38,46 +38,8 @@
     "infogp": "Moto2 | 17:15 WIB - MotoGP | 19:00 WIB", "firstRow": 4
   },
   {
-    "id": "30adc2e0-a445-4e9c-bb93-769564b2ab26",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Iran",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_96x96.png"
-    },
-    "team2": {
-      "name": "France",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "kickoff_date": "2025-07-20",
-    "kickoff_time": "01:30",
-    "match_date": "2025-07-20",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 14
-  },
-  {
-    "id": "40f9b65b-2e1c-4f41-ba16-242e57bc810a",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Slovenia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/eoYnHnSwIqfFIeAoWwLEIg_96x96.png"
-    },
-    "team2": {
-      "name": "Italy",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
-    },
-    "kickoff_date": "2025-07-20",
-    "kickoff_time": "01:30",
-    "match_date": "2025-07-20",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 15
-  },
-  {
     "id": "c5fd9100-1592-4918-9c79-b30f631919ad",
-    "duration": 3,
+    "duration": 15,
     "league": "UFC 318",
     "icon": "https://i.imgur.com/q0y3Nhg.png",
     "team1": {
@@ -93,25 +55,6 @@
     "match_date": "2025-07-20",
     "match_time": "05:00",
     "infogp": "", "firstRow": 16
-  },
-  {
-    "id": "34624f04-4250-4b9a-9600-ee38f03ebb8b",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Turkiye",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "team2": {
-      "name": "Argentina",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png"
-    },
-    "kickoff_date": "2025-07-20",
-    "kickoff_time": "09:00",
-    "match_date": "2025-07-20",
-    "match_time": "09:00",
-    "infogp": "", "firstRow": 17
   },
   {
     "id": "8984010e-7fc5-4730-997f-3878b390759f",
