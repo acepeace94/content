@@ -1,7 +1,7 @@
 [
   {
     "id": "v5fd9100-1592-4918-9c79-b30f631919ad",
-    "duration": 15,
+    "duration": 1,
     "league": "UFC 318",
     "icon": "https://i.imgur.com/q0y3Nhg.png",
     "team1": {
@@ -20,7 +20,7 @@
   },
   {
     "id": "2608c89f-bef1-4115-ad1d-3fd881e0324b",
-    "duration": 10,
+    "duration": 1,
     "league": "Japan Open Badminton Championships",
     "icon": "https://i.imgur.com/mD7ivNN.png",
     "team1": {
@@ -55,24 +55,5 @@
     "match_date": "2025-07-20",
     "match_time": "14:00",
     "infogp": "Moto2 | 17:15 WIB - MotoGP | 19:00 WIB", "firstRow": 5
-  },
-  {
-    "id": "8984010e-7fc5-4730-997f-3878b390759f",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "Brazil",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png"
-    },
-    "kickoff_date": "2025-07-20",
-    "kickoff_time": "12:30",
-    "match_date": "2025-07-20",
-    "match_time": "12:30",
-    "infogp": "", "firstRow": 6
   }
 ]
